@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="9_151_Sets&amp;Hashode" />
+        <module name="_8_115_SetupForMoreAdvancedOOPTopics" />
+        <module name="9_148_ImplementingComparatorToSortLists" />
+        <module name="9_161_FirstStepsIntoStreamsAPI" />
+        <module name="_8_122_CompletingTheEmployeeClassHierarchy" />
+        <module name="_9_142_LinkedList" />
+        <module name="9_150_IntroToSets" />
+        <module name="9_154_IntroToMaps" />
+        <module name="_8_118_IntroducingAProgrammerClass" />
+        <module name="9_164_SummingWithStreams" />
+        <module name="9_155_AMapScenario" />
+        <module name="_8_123_DealingWithTheNullCase" />
+        <module name="9_156_UsingMapImplementations" />
+        <module name="_8_132_ComparingClassesWithInstanceOf" />
+        <module name="_8_124_IntroducingAbstractClasses" />
+        <module name="9_149_ImplementingComparableToSortLists" />
+        <module name="_8_121_RevisitingTheClassHierarchies" />
+        <module name="9_153_TreeSet" />
+        <module name="_9_141_ListBasics" />
+        <module name="_8_126_NestedClasses" />
+        <module name="_8_128_Records" />
+        <module name="_9_143_LoopingWithIterators" />
+        <module name="9_146_List.contains()&amp;Object.equals()_" />
+        <module name="10_164_SummingWithStreams" />
+        <module name="_8_129_LambdasVersusAnonymousClasses" />
+        <module name="_8_116_EmployeeSalariesContinued" />
+        <module name="10_165_SortingWithStreams" />
+        <module name="_8_131_DefaultMethods" />
+        <module name="9_152_LinkedHashSet" />
+        <module name="_9_144_LooseEndsOfLists" />
+        <module name="_8_120_IntroducingInterfaces" />
+        <module name="_8_125_FactoryMethods" />
+        <module name="_8_117_CompletingOtherEmployeeCases" />
+        <module name="_8_119_ImplementingTheOtherEmploeeClasses" />
+        <module name="9_162_StreamsExplained" />
+        <module name="_9_145_AdditionalListMethod" />
+        <module name="9_163_CreatingStreams" />
+        <module name="_8_130_CompositionVersusInheritance" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
